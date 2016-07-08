@@ -34,11 +34,20 @@ without conflict with the existing code.
 
 How do the diagrams help you visualize the branch structure?
 Through the diagrams, the relationships between branches is quite clear.
-Additionally we can easily know whether or not a branch needs to be crreated
+Additionally we can easily know whether or not a branch needs to be created
 for a change
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Changes made in the branch are added to the master creating a new master
+containing changes made in both branches. We represent it that way because
+merging creates a new node.
+
+
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging is much faster and conflicts are displayed in an easy to find
+way
