@@ -29,7 +29,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Sharing a directory on dropbox. Resolving conflicts would be harder. The setup would be easier. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
